@@ -5,12 +5,14 @@
   <h1>안녕하세요!🍀🧸</h1>
   <p>방문해주셔서 감사합니다. 무조건 해내자! 저는 주니어 개발자 <strong>정지현</strong>입니다. 🌟</p>
   
-  <h2>About Me</h2>
-  <ul style="list-style: none; padding: 0;">
-    <li>🌱 JAVA를 기반으로 한 springBoot 개발</li>
-    <li>🌱 React,JavaScript의 활용</li>
-    <li>🌱 현재는 새롭게 <strong>flutter</strong>을 배우고 있습니다.</li>
-  </ul>
+## About me
+ ☘ <strong>책임감</strong>을 가지고 <strong>소통</strong>하며 개발하는 것이 중요하다고 생각합니다.</br>
+ ☘ 새로운 것에 <strong>두려워하지 않고</strong> 도전하는 것을 좋아합니다.</br>
+ 
+## 현재
+ 🌱 JAVA를 기반으로 한 Spring Boot 개발</br>
+ 🌱 React, JavaScript의 활용</br>
+ 🌱 현재는 새롭게 **Flutter**를 배우고 있습니다.</br>
   
 ---
 <h3 align='center'>🐾Languages</h3>
@@ -26,7 +28,7 @@
 
 <h3 align='center'>📚Database</h3>
 <div align='center'>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 
 </div>
@@ -78,8 +80,8 @@
 
 ---
 
-  <h2>연락하기</h2>
-  <p>📫 연락 방법: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+  <h2>Address</h2>
+  <p>✉ Email: <a href="mailto:your.email@example.com">wlgus5946@gmail.com</a></p>
 
 
   <hr style="border: 1px solid #ddd; width: 80%; margin: 20px auto;">
