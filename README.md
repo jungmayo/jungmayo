@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1>안녕하세요!🍀🧸</h1>
-  <p>방문해주셔서 감사합니다. 무조건 해내자! 저는 주니어 개발자 <strong>정지현</strong>입니다. 🌟</p>
+  <p>방문해주셔서 감사합니다. 무조건 해내자! 저는 신입 개발자 <strong>정지현</strong>입니다. 🌟</p>
   
 ## About me
  ☘ <strong>책임감</strong>을 가지고 <strong>소통</strong>하며 개발하는 것이 중요하다고 생각합니다.</br>
@@ -73,10 +73,10 @@
 #### 💻 Project Timeline
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
-| 24.11.16~진행중 | AntWork 그룹웨어 프로젝트 (Front)        | [->] |
-| 24.11.16~진행중 | AntWork 그룹웨어 프로젝트 (Back)        | [->]|
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->] |
-| 24.09.27~24.10.04 | farmstory 프로젝트                | [->] |
+| 25.01.11~25.02.22 | Pingo데이팅어플 프로젝트           | [->](https://github.com/jungmayo/Pingo) |
+| 24.11.16~24.12.27 | AntWork 그룹웨어 프로젝트          | [->](https://github.com/jungmayo/AntWorkProject)|
+| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/jungmayo/LotteOnShopping) |
+| 24.09.27~24.10.04 | farmstory(JSP) 프로젝트            | [->](https://github.com/jungmayo/farmstory_team) |
 
 ---
 
